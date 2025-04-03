@@ -17,7 +17,7 @@ This repository contains Python code for **Lesson 05: Control Flow & Loops**. It
 2. Navigate to the project folder in your terminal.
 3. Run the Python script:
    ```bash
-   python lesson_05.py
+   python Control Flow & Loops.py
    ```
 
 ## License
