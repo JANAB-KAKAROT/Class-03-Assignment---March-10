@@ -1,7 +1,3 @@
-Here's a simple README file suitable for GitHub:
-
----
-
 # Python Assignment - Lesson 05: Control Flow & Loops
 
 ## Overview
