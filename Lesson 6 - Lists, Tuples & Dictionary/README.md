@@ -28,7 +28,7 @@ This repository contains Python code for **Lesson 06: Lists, Tuples, and Diction
 2. Navigate to the project folder in your terminal.
 3. Run the Python script:
    ```bash
-   python  Lists, Tuples & Dictionary.py
+   python  lesson_06.py
    ```
 
 ## License
